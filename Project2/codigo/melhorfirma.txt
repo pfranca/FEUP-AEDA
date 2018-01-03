@@ -1,0 +1,136 @@
+7
+Empresarial
+Donald Trump
+Casa Branca 
+111111111
+2
+2
+Casa Branca
+Jardim da Casa Branca
+2
+12
+11
+2016
+13
+47
+13
+48
+0
+USA
+MEXICO
+40
+21
+0
+1958
+21
+0
+23
+34
+0
+Particular
+Marcelo Rebelo de Sousa
+Belem n1
+765412320
+1
+1
+Belem
+Inauguracao de Alguma Coisa
+320
+15
+8
+2016
+7
+0
+12
+0
+1
+Particular
+Sr Julio
+FEUP
+696969696
+2
+2
+Daqui
+Ali
+1
+20
+11
+2016
+15
+11
+15
+12
+1
+FEUP
+Taberna
+4
+18
+11
+2016
+17
+30
+17
+47
+1
+Particular
+Mr Freeman
+Xen
+528456673
+1
+1
+Black Mesa Research Facility
+Xen
+100000000
+9
+10
+1998
+10
+15
+10
+16
+0
+Empresarial
+G-Men
+UNKNOWN
+123456789
+1
+1
+Nao se sabe
+Muito menos
+3
+3
+3
+2003
+3
+33
+4
+44
+1
+Particular
+Eu Zinho
+Rua das 12 Casa nr48
+765553412
+2
+2
+Casa
+FEUP
+3
+18
+11
+2016
+7
+50
+8
+4
+1
+Restaurante Lusiada
+Piolho
+2
+19
+11
+2016
+0
+30
+2
+30
+0
